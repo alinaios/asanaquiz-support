@@ -7,17 +7,8 @@ This repository contains the public support site for the `AsanaQuiz` app.
 - `index.html` — support homepage
 - `styles.css` — site styling
 
-## Recommended Support URL
+## Live Link
 
 Use this published URL in App Store Connect as the app's Support URL:
 
 `https://alinaios.github.io/asanaquiz-support/`
-
-## Publish on GitHub Pages
-
-If you want automatic deployment through GitHub Actions:
-
-1. Open the repository on GitHub.
-2. Go to `Settings` -> `Pages`.
-3. Under `Build and deployment`, choose:
-   - `Source`: `GitHub Actions`
